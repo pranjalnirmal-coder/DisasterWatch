@@ -1,0 +1,16 @@
+source,title,location,severity,timestamp,lat,lon,event_type
+USGS_Paginated,"M 4.4 - 15 km ENE of Uttarkāshi, India","15 km ENE of Uttarkāshi, India",4.4,2026-10-10 14:37:31.499000+00:00,30.8049,78.5848,earthquake
+USGS_Paginated,"M 4.5 - 65 km NNE of Mawlaik, Burma (Myanmar)","65 km NNE of Mawlaik, Burma (Myanmar)",4.5,2026-10-07 03:29:21.320000+00:00,24.1974,94.6214,earthquake
+USGS_Paginated,"M 5.1 - 31 km NW of Bāgeshwar, India","31 km NW of Bāgeshwar, India",5.1,2026-10-06 16:53:12.231000+00:00,30.0423,79.5468,earthquake
+USGS_Paginated,"M 4.6 - 31 km S of Tezpur, India","31 km S of Tezpur, India",4.6,2026-10-05 22:53:42.181000+00:00,26.3539,92.8359,earthquake
+USGS_Paginated,"M 4.6 - 121 km WNW of Chauk, Burma (Myanmar)","121 km WNW of Chauk, Burma (Myanmar)",4.6,2026-10-04 05:55:06.861000+00:00,21.3382,93.7503,earthquake
+USGS_Paginated,"M 4.9 - 72 km NE of Sittwe, Burma (Myanmar)","72 km NE of Sittwe, Burma (Myanmar)",4.9,2026-10-03 18:12:46.916000+00:00,20.6061,93.3991,earthquake
+USGS_Paginated,"M 4.2 - 16 km ENE of Parbhani, India","16 km ENE of Parbhani, India",4.2,2026-10-03 04:13:31.661000+00:00,19.3072,76.922,earthquake
+USGS_Paginated,"M 4.5 - 56 km SSE of Mawlaik, Burma (Myanmar)","56 km SSE of Mawlaik, Burma (Myanmar)",4.5,2026-10-02 16:55:33.449000+00:00,23.1453,94.5469,earthquake
+USGS_Paginated,"M 4.5 - 72 km E of Thang, India","72 km E of Thang, India",4.5,2026-09-25 11:53:21.312000+00:00,34.8425,77.5756,earthquake
+USGS_Paginated,"M 4.1 - 298 km NW of Qamdo, China","298 km NW of Qamdo, China",4.1,2026-09-20 03:39:32.208000+00:00,33.3717,95.4277,earthquake
+USGS_Paginated,"M 4.5 - 269 km NNW of Dêqên, China","269 km NNW of Dêqên, China",4.5,2026-09-19 12:19:54.779000+00:00,32.0205,89.2208,earthquake
+USGS_Paginated,"M 4.8 - 8 km WSW of Mongar, Bhutan","8 km WSW of Mongar, Bhutan",4.8,2026-09-19 10:31:17.203000+00:00,27.2385,91.1652,earthquake
+USGS_Paginated,"M 4.0 - 57 km NW of Jumla, Nepal","57 km NW of Jumla, Nepal",4.0,2026-09-15 22:43:11.450000+00:00,29.6348,81.7592,earthquake
+USGS_Paginated,"M 4.1 - 55 km WNW of Jumla, Nepal","55 km WNW of Jumla, Nepal",4.1,2026-09-15 20:06:11.362000+00:00,29.4419,81.6398,earthquake
+USGS_Paginated,"M 4.4 - 173 km W of Pyay, Burma (Myanmar)","173 km W of Pyay, Burma (Myanmar)",4.4,2026-09-13 12:00:49.109000+00:00,18.58,93.5969,earthquake

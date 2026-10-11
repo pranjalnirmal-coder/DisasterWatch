@@ -1,0 +1,239 @@
+source,title,location,severity,timestamp,event_type,lat,lon
+GDACS,"Green earthquake (Magnitude 6M, Depth:10km) in Panama 10/10/2026 04:14 UTC, 4 thousand (in MMI>=VII).",Panama,"Magnitude 6M, Depth:10km","Sat, 10 Oct 2026 04:32:21 GMT",eq,7.5068,-80.5985
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 6627 ha,"Sun, 11 Oct 2026 11:00:37 GMT",wf,-16.209872732647955,137.07728080624912
+GDACS,Green forest fire notification in Mongolia,Mongolia,Green impact for forestfire in 15293 ha,"Sun, 11 Oct 2026 11:00:48 GMT",wf,46.90080329870081,119.66342320923887
+GDACS,Green forest fire notification in Mongolia,Mongolia,Green impact for forestfire in 5419 ha,"Sun, 11 Oct 2026 11:00:54 GMT",wf,46.77970228521814,119.66068142933409
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 5050 ha,"Sun, 11 Oct 2026 11:00:57 GMT",wf,-12.629364290602568,142.7372775871469
+GDACS,"Green forest fire notification in Mongolia, China","Mongolia, China",Green impact for forestfire in 6140 ha,"Sun, 11 Oct 2026 11:01:02 GMT",wf,46.66428871727338,119.6390005297498
+GDACS,"Green forest fire notification in Mongolia, China","Mongolia, China",Green impact for forestfire in 8445 ha,"Sun, 11 Oct 2026 11:01:12 GMT",wf,47.36540602347907,119.36931601652567
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 6404 ha,"Sun, 11 Oct 2026 07:00:52 GMT",wf,-20.951625983616285,130.1927050719555
+GDACS,"Green earthquake (Magnitude 6.6M, Depth:10km) in Panama 09/10/2026 20:25 UTC, 10 thousand (in MMI>=VII).",Panama,"Magnitude 6.6M, Depth:10km","Fri, 09 Oct 2026 20:32:32 GMT",eq,7.7176,-81.4687
+GDACS,"Green earthquake (Magnitude 5.8M, Depth:10km) in Panama 09/10/2026 18:37 UTC, 5 thousand (in MMI>=VII).",Panama,"Magnitude 5.8M, Depth:10km","Fri, 09 Oct 2026 18:49:51 GMT",eq,7.4362,-80.4012
+GDACS,"Green earthquake (Magnitude 5.5M, Depth:10km) in Panama 09/10/2026 18:22 UTC, Few people affected (in MMI>=VII).",Panama,"Magnitude 5.5M, Depth:10km","Fri, 09 Oct 2026 18:37:39 GMT",eq,7.586,-80.2885
+GDACS,"Orange earthquake (Magnitude 7.7M, Depth:12.647km) in Panama 09/10/2026 17:56 UTC, 540 thousand (in MMI>=VII).",Panama,"Magnitude 7.7M, Depth:12.6km","Fri, 09 Oct 2026 18:04:04 GMT",eq,7.5868,-80.769
+GDACS,"Green earthquake (Magnitude 5.9M, Depth:10km) in West Of Macquarie Island 09/10/2026 14:49 UTC, [unknown].",West Of Macquarie Island,"Magnitude 5.9M, Depth:10km","Fri, 09 Oct 2026 15:09:14 GMT",eq,-60.9758,154.4619
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 8881 ha,"Sun, 11 Oct 2026 07:01:14 GMT",wf,-19.734294891246716,129.5285971015521
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 6268 ha,"Sun, 11 Oct 2026 11:01:16 GMT",wf,-19.549095483092557,142.32199344168592
+GDACS,Green forest fire notification in Bolivia,Bolivia,Green impact for forestfire in 8369 ha,"Sat, 10 Oct 2026 07:00:42 GMT",wf,-12.950557916454768,-67.55533724560041
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 12605 ha,"Sat, 10 Oct 2026 11:00:40 GMT",wf,-15.324850934428778,134.8531085789947
+GDACS,"Green forest fire notification in Mongolia, China","Mongolia, China",Green impact for forestfire in 6612 ha,"Sun, 11 Oct 2026 11:01:25 GMT",wf,46.755627039016346,119.11747015453685
+GDACS,Volcanic eruption is on going for Taal in Philippines,Philippines,,"Thu, 08 Oct 2026 13:00:44 GMT",vo,14.0106,120.9975
+GDACS,"Orange earthquake (Magnitude 6.3M, Depth:10km) in Vanuatu 08/10/2026 09:00 UTC, 10 thousand (in MMI>=VII).",Vanuatu,"Magnitude 6.3M, Depth:10km","Thu, 08 Oct 2026 09:09:40 GMT",eq,-15.5411,168.1889
+GDACS,"Green earthquake (Magnitude 5.5M, Depth:52.054km) in Philippines 08/10/2026 08:07 UTC, 80 thousand in MMI V.",Philippines,"Magnitude 5.5M, Depth:52.1km","Thu, 08 Oct 2026 08:27:59 GMT",eq,5.6006,125.1521
+GDACS,"Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 08/10/2026 06:46 UTC, [unknown].",West Of Macquarie Island,"Magnitude 5.5M, Depth:10km","Thu, 08 Oct 2026 07:04:38 GMT",eq,-52.5475,140.2121
+GDACS,Green flood alert in Italy,Italy,Magnitude 0 ,"Sat, 10 Oct 2026 07:04:44 GMT",fl,40.8358846,14.2487679
+GDACS,Green flood alert in Slovenia,Slovenia,Magnitude 0 ,"Sat, 10 Oct 2026 07:26:12 GMT",fl,45.8237883,13.8442901
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 9220 ha,"Sat, 10 Oct 2026 15:01:18 GMT",wf,-13.666581891372125,142.01785116934164
+GDACS,Green forest fire notification in Mongolia,Mongolia,Green impact for forestfire in 8592 ha,"Sat, 10 Oct 2026 07:01:24 GMT",wf,46.885577195276475,119.46589231781931
+GDACS,Green forest fire notification in Mongolia,Mongolia,Green impact for forestfire in 73558 ha,"Fri, 09 Oct 2026 07:00:47 GMT",wf,47.06262843331165,119.17056049868013
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 5843 ha,"Sun, 11 Oct 2026 11:01:46 GMT",wf,-22.835051535916776,132.72188893482337
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 17062 ha,"Fri, 09 Oct 2026 07:00:52 GMT",wf,-17.087705690919886,142.9254651299548
+GDACS,Green forest fire notification in Russian Federation,Russian Federation,Green impact for forestfire in 7467 ha,"Fri, 09 Oct 2026 23:00:44 GMT",wf,48.677234095798056,135.84901095470815
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 14289 ha,"Fri, 09 Oct 2026 23:01:21 GMT",wf,-11.069938195159413,-44.05505021068298
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 6989 ha,"Sun, 11 Oct 2026 03:02:02 GMT",wf,-9.28665865378725,-47.40365608980317
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 6203 ha,"Sun, 11 Oct 2026 11:01:49 GMT",wf,-23.03650565717009,133.6612740384221
+GDACS,Green forest fire notification in Mongolia,Mongolia,Green impact for forestfire in 17663 ha,"Thu, 08 Oct 2026 23:00:52 GMT",wf,46.99446924062162,119.22844699482233
+GDACS,Orange notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 37569 .,Mexico,Hurricane/Typhoon > 74 mph (maximum wind speed of 231 km/h),"Wed, 07 Oct 2026 15:33:28 GMT",tc,18.7,-105.2
+GDACS,Green flood alert in China,China,Magnitude 0 ,"Sun, 11 Oct 2026 06:57:32 GMT",fl,19.2000001,109.5999999
+GDACS,Green flood alert in Venezuela,Venezuela,Magnitude 0 ,"Sat, 10 Oct 2026 06:25:31 GMT",fl,10.2343499,-66.3807249
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 5141 ha,"Sun, 11 Oct 2026 11:02:57 GMT",wf,-20.66067859231883,130.04297596632998
+GDACS,Green forest fire notification in Russian Federation,Russian Federation,Green impact for forestfire in 5852 ha,"Thu, 08 Oct 2026 19:00:43 GMT",wf,48.56182803668193,135.69068440721037
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 5511 ha,"Thu, 08 Oct 2026 15:00:38 GMT",wf,-22.46807884249482,130.9613373002804
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 8497 ha,"Thu, 08 Oct 2026 07:00:33 GMT",wf,-16.20969911861709,134.0672510907094
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 5240 ha,"Sun, 11 Oct 2026 11:02:37 GMT",wf,-8.984532848374894,-45.917780354359785
+GDACS,Green forest fire notification in Bolivia,Bolivia,Green impact for forestfire in 9706 ha,"Fri, 09 Oct 2026 23:01:34 GMT",wf,-13.173354801234343,-63.13101003433572
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 7139 ha,"Fri, 09 Oct 2026 23:01:38 GMT",wf,-8.94741893114355,-45.153670740118436
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 5669 ha,"Sun, 11 Oct 2026 07:02:55 GMT",wf,-11.773821928222889,-45.52159864338625
+GDACS,Orange notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.567 million .,United States,Tropical Depression (maximum wind speed of 37 km/h),"Tue, 06 Oct 2026 21:01:35 GMT",tc,35.4,-85.9
+GDACS,Green flood alert in Paraguay,Paraguay,Magnitude 0 ,"Sun, 11 Oct 2026 06:56:59 GMT",fl,-25.5,-54.833333
+GDACS,Green flood alert in Chile,Chile,Magnitude 0 ,"Fri, 09 Oct 2026 06:06:46 GMT",fl,-33.5922859,-70.7045838
+GDACS,Green flood alert in Argentina,Argentina,Magnitude 0 ,"Sat, 10 Oct 2026 06:07:17 GMT",fl,-31.3972539,-58.0173305
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 11557 ha,"Fri, 09 Oct 2026 07:01:21 GMT",wf,-11.988593325203206,35.39138476707962
+GDACS,Green forest fire notification in Zambia,Zambia,Green impact for forestfire in 16467 ha,"Thu, 08 Oct 2026 19:01:14 GMT",wf,-10.325899530815441,33.211091806047946
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 5003 ha,"Sun, 11 Oct 2026 11:03:20 GMT",wf,-15.068545119661657,134.58010389591053
+GDACS,Green forest fire notification in Peru,Peru,Green impact for forestfire in 5670 ha,"Sun, 11 Oct 2026 03:03:07 GMT",wf,-13.618433728227291,-72.48157630574087
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 6717 ha,"Sun, 11 Oct 2026 07:03:41 GMT",wf,-12.165971122970282,36.793637902909914
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 5196 ha,"Sun, 11 Oct 2026 11:03:28 GMT",wf,-5.724095725486853,-41.743022701210265
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 7954 ha,"Fri, 09 Oct 2026 15:01:37 GMT",wf,-8.221210465120759,-46.38730799140644
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 10604 ha,"Sat, 10 Oct 2026 15:02:07 GMT",wf,-15.963408933127907,36.652350132383475
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 5050 ha,"Sun, 11 Oct 2026 11:03:37 GMT",wf,-16.51957080296811,32.971382054213066
+GDACS,Green flood alert in Thailand,Thailand,Magnitude 0 ,"Sun, 11 Oct 2026 09:17:07 GMT",fl,17.1053568,98.9953943
+GDACS,Green flood alert in Mexico,Mexico,Magnitude 0 ,"Sat, 26 Sep 2026 06:33:31 GMT",fl,17.666667,-100.0
+GDACS,Green forest fire notification in Angola,Angola,Green impact for forestfire in 5702 ha,"Sun, 11 Oct 2026 11:05:15 GMT",wf,-16.5315742290382,18.00993100726617
+GDACS,Green forest fire notification in Angola,Angola,Green impact for forestfire in 8564 ha,"Sun, 11 Oct 2026 11:04:43 GMT",wf,-17.46440049263213,19.195650236100718
+GDACS,Green forest fire notification in Angola,Angola,Green impact for forestfire in 5223 ha,"Wed, 07 Oct 2026 15:01:35 GMT",wf,-15.870790916579173,14.917230822948815
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 7336 ha,"Fri, 09 Oct 2026 15:02:30 GMT",wf,-15.651166485711729,39.66604829921303
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 7285 ha,"Thu, 08 Oct 2026 15:01:07 GMT",wf,-21.872281283913512,132.57371588344822
+GDACS,Green forest fire notification in Tanzania,Tanzania,Green impact for forestfire in 11441 ha,"Fri, 09 Oct 2026 15:02:01 GMT",wf,-6.908533505851156,34.184469780312725
+GDACS,Green forest fire notification in Angola,Angola,Green impact for forestfire in 9956 ha,"Wed, 07 Oct 2026 15:01:26 GMT",wf,-16.015242275563615,18.174196297123185
+GDACS,Green forest fire notification in Zambia,Zambia,Green impact for forestfire in 5219 ha,"Sun, 11 Oct 2026 11:03:44 GMT",wf,-11.136563907995136,32.299621219283864
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 12253 ha,"Sat, 10 Oct 2026 15:02:24 GMT",wf,-16.414235757952312,36.432094933955426
+GDACS,Green forest fire notification in Malawi,Malawi,Green impact for forestfire in 5494 ha,"Sat, 10 Oct 2026 15:02:38 GMT",wf,-12.811052619377133,33.22690676795475
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 8096 ha,"Sat, 10 Oct 2026 15:03:11 GMT",wf,-13.66731502047082,35.83744677120106
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 9641 ha,"Sat, 10 Oct 2026 15:03:24 GMT",wf,-16.01586666637201,36.75550143586024
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 5677 ha,"Sat, 10 Oct 2026 15:03:29 GMT",wf,-13.26855657385617,35.87089235449651
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 8533 ha,"Sat, 10 Oct 2026 15:02:47 GMT",wf,-16.13153421267399,36.808650826524385
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 5880 ha,"Fri, 09 Oct 2026 07:01:56 GMT",wf,-16.106636649894778,136.44670406728545
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 5969 ha,"Sat, 10 Oct 2026 15:02:42 GMT",wf,-5.7346054367993515,-41.65413117293351
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 5634 ha,"Sun, 11 Oct 2026 11:03:40 GMT",wf,-7.980669532638741,141.45844671187254
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 9849 ha,"Fri, 09 Oct 2026 23:02:20 GMT",wf,-12.003343801536262,-43.46132469944893
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 8340 ha,"Fri, 09 Oct 2026 07:01:29 GMT",wf,-11.361477538919232,-46.67729721749228
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 8546 ha,"Fri, 09 Oct 2026 07:01:42 GMT",wf,-11.854365121924738,-47.35714187824729
+GDACS,Green notification for tropical cyclone KOGUMA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).,,Hurricane/Typhoon > 74 mph (maximum wind speed of 213 km/h),"Mon, 05 Oct 2026 02:11:52 GMT",tc,25.3,147.8
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 5732 ha,"Sun, 11 Oct 2026 03:04:59 GMT",wf,-1.5058606492578588,-54.537383795409745
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 10927 ha,"Fri, 09 Oct 2026 07:02:30 GMT",wf,-10.979282788596823,-45.41440237610837
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 5821 ha,"Sat, 10 Oct 2026 15:03:58 GMT",wf,-12.930692042685724,34.84403146309844
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 5873 ha,"Sat, 10 Oct 2026 07:04:25 GMT",wf,-8.736483743363758,142.54504224015395
+GDACS,Green forest fire notification in Zambia,Zambia,Green impact for forestfire in 5183 ha,"Sun, 11 Oct 2026 07:06:51 GMT",wf,-11.00691813304561,32.32164512520756
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 7412 ha,"Wed, 07 Oct 2026 15:01:59 GMT",wf,-16.118404476331868,136.78076696577565
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 7362 ha,"Thu, 08 Oct 2026 07:01:20 GMT",wf,-16.20990487588184,136.70472063990718
+GDACS,Green forest fire notification in [unknown],,Green impact for forestfire in 6840 ha,"Thu, 08 Oct 2026 11:01:46 GMT",wf,-13.449321369452063,136.1542975929909
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 9895 ha,"Fri, 09 Oct 2026 19:03:46 GMT",wf,-11.831236641401533,142.60113721555032
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 12058 ha,"Sat, 10 Oct 2026 03:03:44 GMT",wf,-8.690266347915076,142.35399668003663
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 7195 ha,"Fri, 09 Oct 2026 19:03:06 GMT",wf,-9.173558045845883,142.54046565035674
+GDACS,Green forest fire notification in Tanzania,Tanzania,Green impact for forestfire in 5492 ha,"Fri, 09 Oct 2026 15:02:53 GMT",wf,-5.788722811478026,31.854023508155713
+GDACS,Green forest fire notification in Angola,Angola,Green impact for forestfire in 5485 ha,"Sun, 11 Oct 2026 07:06:56 GMT",wf,-15.854962012978978,16.58367394911128
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 7095 ha,"Thu, 08 Oct 2026 07:01:25 GMT",wf,-21.07623829371567,132.7494483364101
+GDACS,Green forest fire notification in Angola,Angola,Green impact for forestfire in 10693 ha,"Wed, 07 Oct 2026 15:01:49 GMT",wf,-16.421283508435298,18.642235107773036
+GDACS,Green forest fire notification in Ethiopia,Ethiopia,Green impact for forestfire in 5641 ha,"Wed, 07 Oct 2026 15:02:06 GMT",wf,6.073268837668396,35.14659240286738
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 6908 ha,"Mon, 05 Oct 2026 23:00:54 GMT",wf,-2.8025782505145256,-54.11612836155025
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 5959 ha,"Wed, 07 Oct 2026 11:01:52 GMT",wf,-3.0684020230087863,-54.2542147986596
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 6292 ha,"Sat, 10 Oct 2026 03:04:22 GMT",wf,-8.875074875525483,141.698898775224
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 6459 ha,"Fri, 09 Oct 2026 15:03:48 GMT",wf,-12.217268458607405,37.596665697797
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 11452 ha,"Wed, 07 Oct 2026 07:01:44 GMT",wf,-14.725565687031384,143.84641964094916
+GDACS,Green forest fire notification in Namibia,Namibia,Green impact for forestfire in 5220 ha,"Sun, 11 Oct 2026 07:07:56 GMT",wf,-18.844782914642074,14.066184978347156
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 11839 ha,"Mon, 05 Oct 2026 19:01:05 GMT",wf,-13.129172519495667,131.91097727835708
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 5037 ha,"Sun, 11 Oct 2026 07:07:59 GMT",wf,-8.735198525306584,141.98190848631114
+GDACS,Green forest fire notification in Bolivia,Bolivia,Green impact for forestfire in 5990 ha,"Fri, 09 Oct 2026 23:04:35 GMT",wf,-12.759254245698415,-67.20845859167208
+GDACS,Green forest fire notification in Mozambique,Mozambique,Green impact for forestfire in 5255 ha,"Sat, 10 Oct 2026 15:05:14 GMT",wf,-13.35105304270176,37.51992690716498
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 15286 ha,"Fri, 09 Oct 2026 23:04:17 GMT",wf,-10.479454694672986,-47.27714582270076
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 10976 ha,"Thu, 08 Oct 2026 07:01:58 GMT",wf,-3.5415214128876666,-54.660443685156174
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 11253 ha,"Fri, 09 Oct 2026 23:05:15 GMT",wf,-7.205523761397171,-55.13592676221254
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 6079 ha,"Sat, 10 Oct 2026 07:06:37 GMT",wf,-7.445432173097648,141.12891975618447
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 8237 ha,"Sat, 10 Oct 2026 07:06:01 GMT",wf,-9.10231530089874,142.36269486910308
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 5015 ha,"Sun, 11 Oct 2026 07:08:49 GMT",wf,-19.145434436778736,145.94776630291722
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 5085 ha,"Sun, 11 Oct 2026 07:08:40 GMT",wf,-5.982281087673451,-40.94541541207112
+GDACS,Green forest fire notification in Tanzania,Tanzania,Green impact for forestfire in 5737 ha,"Sun, 11 Oct 2026 07:08:26 GMT",wf,-9.930204025051474,37.61946480639847
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 12330 ha,"Mon, 05 Oct 2026 23:01:10 GMT",wf,1.900137352068102,-55.76476397036779
+GDACS,Green forest fire notification in Bolivia,Bolivia,Green impact for forestfire in 11479 ha,"Mon, 05 Oct 2026 23:01:15 GMT",wf,-13.034512612157593,-63.127521910426275
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 6111 ha,"Thu, 08 Oct 2026 07:02:10 GMT",wf,-7.8704189733506595,-44.18962727373985
+GDACS,Green forest fire notification in Sudan,Sudan,Green impact for forestfire in 8397 ha,"Thu, 08 Oct 2026 15:02:52 GMT",wf,7.24679966928245,32.71484525442974
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 31138 ha,"Sun, 04 Oct 2026 15:00:51 GMT",wf,-15.012134370555543,133.9315116556821
+GDACS,Green forest fire notification in Tanzania,Tanzania,Green impact for forestfire in 8095 ha,"Tue, 06 Oct 2026 15:01:20 GMT",wf,-7.794710228775438,34.73072326597446
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 6401 ha,"Wed, 07 Oct 2026 07:02:11 GMT",wf,-6.364633461595884,139.56264893775537
+GDACS,Green flood alert in Brazil,Brazil,Magnitude 0 ,"Fri, 09 Oct 2026 06:06:33 GMT",fl,-26.1150943,-49.8035982
+GDACS,Green forest fire notification in The Democratic Republic of Congo,The Democratic Republic of Congo,Green impact for forestfire in 13721 ha,"Sun, 04 Oct 2026 15:00:57 GMT",wf,-7.2630066567076845,30.075195017493368
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 8711 ha,"Thu, 08 Oct 2026 11:03:33 GMT",wf,-3.0474735368795547,113.71504882195771
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 11454 ha,"Thu, 08 Oct 2026 11:03:37 GMT",wf,-3.1488300476053768,112.21441183322115
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 19516 ha,"Fri, 09 Oct 2026 07:03:56 GMT",wf,-12.200277612975919,-44.730417575016055
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 10185 ha,"Thu, 08 Oct 2026 15:03:21 GMT",wf,-6.220094170634501,-52.840573991529546
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 5790 ha,"Sat, 10 Oct 2026 07:06:44 GMT",wf,-12.21402159828276,-57.10891151431066
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 9577 ha,"Thu, 01 Oct 2026 11:00:28 GMT",wf,-4.278992450408198,-50.777499041744704
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 6963 ha,"Mon, 05 Oct 2026 23:01:42 GMT",wf,-3.1177954638395033,-53.7424673113026
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 5056 ha,"Sun, 11 Oct 2026 07:09:54 GMT",wf,-9.008510040980472,142.54529265693577
+GDACS,Green forest fire notification in Tanzania,Tanzania,Green impact for forestfire in 5057 ha,"Sun, 11 Oct 2026 07:09:50 GMT",wf,-10.584076146312166,34.847984920317835
+GDACS,Green forest fire notification in Angola,Angola,Green impact for forestfire in 11473 ha,"Thu, 08 Oct 2026 23:04:38 GMT",wf,-8.679075750806165,14.127836372806247
+GDACS,Green forest fire notification in Angola,Angola,Green impact for forestfire in 6336 ha,"Thu, 08 Oct 2026 19:05:07 GMT",wf,-8.596069826698022,14.036155151143168
+GDACS,Green forest fire notification in Angola,Angola,Green impact for forestfire in 8052 ha,"Mon, 05 Oct 2026 15:01:28 GMT",wf,-8.59721132687676,14.171587445141494
+GDACS,Green flood alert in France,France,Magnitude 0 ,"Sun, 11 Oct 2026 09:24:42 GMT",fl,43.7574503,3.0991684
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 19595 ha,"Sat, 03 Oct 2026 11:01:21 GMT",wf,-17.12553699152799,123.2103121429292
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 16183 ha,"Wed, 07 Oct 2026 15:06:47 GMT",wf,-8.624593957049141,141.82332013744895
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 10273 ha,"Mon, 05 Oct 2026 19:02:29 GMT",wf,-14.39943946986092,133.57606549146422
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 7822 ha,"Tue, 06 Oct 2026 23:02:32 GMT",wf,-7.658333885093025,126.49677610721069
+GDACS,Green forest fire notification in Sudan,Sudan,Green impact for forestfire in 5916 ha,"Sun, 11 Oct 2026 07:11:24 GMT",wf,8.888284283928908,33.07072575567031
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 25824 ha,"Sat, 03 Oct 2026 19:01:29 GMT",wf,-15.149174104692708,134.31179638649752
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 5812 ha,"Fri, 09 Oct 2026 19:07:06 GMT",wf,-2.8399898507821004,133.43214593762085
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 6127 ha,"Thu, 08 Oct 2026 23:05:52 GMT",wf,0.6337179603404136,128.23625889844357
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 5047 ha,"Sat, 10 Oct 2026 15:08:58 GMT",wf,0.5762795825777806,127.96897485735423
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 10845 ha,"Tue, 06 Oct 2026 15:02:42 GMT",wf,-3.594391187499531,105.75433230605375
+GDACS,Green flood alert in Spain,Spain,Magnitude 0 ,"Wed, 30 Sep 2026 04:56:11 GMT",fl,40.5248319,-3.7715628
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 8479 ha,"Tue, 06 Oct 2026 07:03:38 GMT",wf,-15.64871726646301,134.59979330875692
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 5602 ha,"Tue, 06 Oct 2026 15:03:48 GMT",wf,-2.878672722234704,110.71976617276057
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 63348 ha,"Tue, 29 Sep 2026 15:01:31 GMT",wf,-16.72190409068145,130.09580852864386
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 52053 ha,"Wed, 30 Sep 2026 19:01:36 GMT",wf,-17.062803753559475,134.98785749527508
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 25951 ha,"Wed, 30 Sep 2026 15:01:04 GMT",wf,-15.583920061636453,144.58599470460746
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 31119 ha,"Thu, 01 Oct 2026 07:00:58 GMT",wf,-15.253479632728398,133.7849279278998
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 7676 ha,"Tue, 06 Oct 2026 19:04:15 GMT",wf,-2.654832276438852,105.56024801251974
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 7547 ha,"Wed, 07 Oct 2026 11:05:08 GMT",wf,-2.7864865319988263,110.45465191885691
+GDACS,Green forest fire notification in The Democratic Republic of Congo,The Democratic Republic of Congo,Green impact for forestfire in 5871 ha,"Tue, 06 Oct 2026 15:03:16 GMT",wf,-7.772069920494991,30.145407157769238
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 8532 ha,"Thu, 08 Oct 2026 19:07:33 GMT",wf,-6.383790635238798,140.89515776155918
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 6324 ha,"Thu, 08 Oct 2026 23:07:32 GMT",wf,-1.350473437605158,104.0987371509996
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 8277 ha,"Thu, 08 Oct 2026 07:05:36 GMT",wf,-3.0304236104921682,-53.910662275827185
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 8016 ha,"Fri, 09 Oct 2026 23:08:08 GMT",wf,-6.030511488697977,-53.50777141185191
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 6443 ha,"Thu, 08 Oct 2026 23:07:43 GMT",wf,-2.64600583150829,111.56053988503402
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 7676 ha,"Fri, 09 Oct 2026 03:07:26 GMT",wf,-2.4919089625367445,-56.140362872975885
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 29837 ha,"Thu, 01 Oct 2026 03:01:57 GMT",wf,1.7856597203251408,-55.59936920477045
+GDACS,Green notification for tropical cyclone RACHEL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).,Mexico,Tropical Storm (maximum wind speed of 83 km/h),"Sun, 27 Sep 2026 09:24:05 GMT",tc,32.9,-116.1
+GDACS,Green forest fire notification in Tanzania,Tanzania,Green impact for forestfire in 5073 ha,"Sat, 10 Oct 2026 15:12:30 GMT",wf,-9.975275597027244,35.95988128643209
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 9041 ha,"Thu, 08 Oct 2026 11:07:50 GMT",wf,-3.2882220186888507,-54.03599342094025
+GDACS,Green forest fire notification in Angola,Angola,Green impact for forestfire in 7949 ha,"Fri, 09 Oct 2026 15:09:29 GMT",wf,-9.201610093992928,14.529219549083198
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 7205 ha,"Thu, 08 Oct 2026 19:08:57 GMT",wf,-8.454288331459344,141.28563483464757
+GDACS,Green forest fire notification in Tanzania,Tanzania,Green impact for forestfire in 5729 ha,"Fri, 09 Oct 2026 15:08:43 GMT",wf,-10.918694758568023,35.719134575980426
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 6688 ha,"Thu, 08 Oct 2026 07:06:31 GMT",wf,-9.116936991757541,141.21392039444916
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 97617 ha,"Thu, 01 Oct 2026 15:02:06 GMT",wf,-16.07639998368431,134.2471321778783
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 14280 ha,"Thu, 01 Oct 2026 23:02:19 GMT",wf,-11.213011802217832,-45.22784992240928
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 6880 ha,"Sun, 04 Oct 2026 07:03:20 GMT",wf,-11.064354834968434,142.25095591393674
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 8450 ha,"Thu, 01 Oct 2026 07:01:58 GMT",wf,-6.709263925827395,-45.607932322264126
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 7686 ha,"Wed, 07 Oct 2026 23:08:04 GMT",wf,-7.900657301664023,141.12466279414994
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 8593 ha,"Sun, 04 Oct 2026 11:06:22 GMT",wf,-9.810466849507472,149.3149832924442
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 15711 ha,"Sat, 03 Oct 2026 19:04:41 GMT",wf,-9.035744774521673,141.96862072366807
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 9582 ha,"Tue, 06 Oct 2026 19:06:38 GMT",wf,-16.46954336898813,145.0886709678864
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 35379 ha,"Wed, 07 Oct 2026 15:15:26 GMT",wf,-8.610294224959064,141.84645972907947
+GDACS,Green forest fire notification in China,China,Green impact for forestfire in 8218 ha,"Tue, 06 Oct 2026 11:06:51 GMT",wf,37.25759754553454,111.94983410490038
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 6805 ha,"Sun, 04 Oct 2026 19:06:03 GMT",wf,-7.513373404029287,140.50557248693013
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 6393 ha,"Thu, 08 Oct 2026 07:08:54 GMT",wf,-7.962149597861674,142.16738696720532
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 22230 ha,"Thu, 01 Oct 2026 23:03:55 GMT",wf,-9.847874455055052,-44.822942047639685
+GDACS,"Green forest fire notification in Papua New Guinea, Indonesia","Papua New Guinea, Indonesia",Green impact for forestfire in 5696 ha,"Sat, 10 Oct 2026 07:13:43 GMT",wf,-7.727528277558271,141.04620017291722
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 5247 ha,"Sat, 10 Oct 2026 11:13:08 GMT",wf,-8.919269477600883,141.54224850323186
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 12231 ha,"Sat, 10 Oct 2026 11:14:44 GMT",wf,-7.991487950210977,142.18670577767065
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 9739 ha,"Sat, 10 Oct 2026 15:13:54 GMT",wf,-7.696541725938402,141.30697618282753
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 5972 ha,"Thu, 08 Oct 2026 07:09:19 GMT",wf,-7.653634564494708,141.14263858700315
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 5458 ha,"Thu, 08 Oct 2026 07:09:39 GMT",wf,-7.32998256884727,141.29788517780318
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 18055 ha,"Thu, 08 Oct 2026 07:10:55 GMT",wf,-7.876464782773923,141.10112347619273
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 7213 ha,"Wed, 07 Oct 2026 07:10:37 GMT",wf,-7.728505001486355,140.3664319624073
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 9520 ha,"Tue, 06 Oct 2026 07:08:11 GMT",wf,-7.013501450016237,140.175388423669
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 6810 ha,"Tue, 06 Oct 2026 19:07:44 GMT",wf,-7.613727684346039,141.68652544903077
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 9390 ha,"Tue, 06 Oct 2026 11:07:41 GMT",wf,-7.626471125834602,141.44681171724838
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 7902 ha,"Thu, 08 Oct 2026 15:11:18 GMT",wf,-7.3824420748757955,141.63903016756777
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 5369 ha,"Sat, 10 Oct 2026 03:16:44 GMT",wf,-8.822631066216257,141.5491354187385
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 5393 ha,"Thu, 08 Oct 2026 07:11:00 GMT",wf,-7.253122930518743,141.60764035110373
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 18538 ha,"Sat, 03 Oct 2026 19:07:03 GMT",wf,-3.2843278847135084,105.549818785028
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 5574 ha,"Sun, 04 Oct 2026 19:07:40 GMT",wf,-8.221758200460442,140.7224097753187
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 18682 ha,"Wed, 30 Sep 2026 15:03:21 GMT",wf,-6.7839792882601,140.23438670721023
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 10047 ha,"Thu, 01 Oct 2026 23:04:16 GMT",wf,-3.0576798363436084,105.06409912560315
+GDACS,Green forest fire notification in Brazil,Brazil,Green impact for forestfire in 20799 ha,"Mon, 28 Sep 2026 07:01:35 GMT",wf,-12.682806436192143,-47.297989236581614
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 11553 ha,"Tue, 06 Oct 2026 15:08:33 GMT",wf,-3.3539379167381944,105.26225087240229
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 6648 ha,"Tue, 06 Oct 2026 11:09:51 GMT",wf,-7.433010177358285,139.11077829937744
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 9126 ha,"Wed, 07 Oct 2026 15:22:34 GMT",wf,-7.946900914838473,140.6990619985817
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 6096 ha,"Fri, 02 Oct 2026 07:05:52 GMT",wf,-7.786608319469487,139.40119675777225
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 11331 ha,"Wed, 07 Oct 2026 15:20:32 GMT",wf,-7.4159073594535565,140.6660467683253
+GDACS,"Green forest fire notification in Papua New Guinea, Indonesia","Papua New Guinea, Indonesia",Green impact for forestfire in 7191 ha,"Tue, 06 Oct 2026 19:10:33 GMT",wf,-6.7133778534154525,140.8757580003252
+GDACS,"Green forest fire notification in Papua New Guinea, Indonesia","Papua New Guinea, Indonesia",Green impact for forestfire in 10701 ha,"Fri, 02 Oct 2026 11:08:25 GMT",wf,-6.505139122148439,140.97789241576575
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 6677 ha,"Thu, 08 Oct 2026 07:14:28 GMT",wf,-9.097087257839128,141.81436061498067
+GDACS,Green forest fire notification in Zambia,Zambia,Green impact for forestfire in 5987 ha,"Tue, 06 Oct 2026 15:12:30 GMT",wf,-10.424512476305798,33.39334149483043
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 8087 ha,"Fri, 02 Oct 2026 07:08:17 GMT",wf,-7.822639903409353,140.5900385803928
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 13487 ha,"Fri, 02 Oct 2026 07:07:23 GMT",wf,-7.648852643330015,140.6409186994489
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 8389 ha,"Fri, 02 Oct 2026 11:09:09 GMT",wf,-7.097764272256342,140.01305603044028
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 8490 ha,"Fri, 02 Oct 2026 23:08:17 GMT",wf,-3.557700517712038,126.88868703461704
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 10733 ha,"Tue, 29 Sep 2026 19:08:42 GMT",wf,-6.5520554067301715,139.45978412560456
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 6137 ha,"Fri, 02 Oct 2026 07:08:55 GMT",wf,-7.925751053068589,141.82514571243075
+GDACS,Green forest fire notification in Papua New Guinea,Papua New Guinea,Green impact for forestfire in 5725 ha,"Wed, 07 Oct 2026 07:13:43 GMT",wf,-7.452769004842239,141.41721423191177
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 7300 ha,"Wed, 07 Oct 2026 07:13:55 GMT",wf,-6.736841853469454,139.42889218144737
+GDACS,Green forest fire notification in Indonesia,Indonesia,Green impact for forestfire in 7666 ha,"Mon, 28 Sep 2026 19:05:27 GMT",wf,-6.440348131837794,139.5474142775542
+GDACS,Green forest fire notification in Australia,Australia,Green impact for forestfire in 40646 ha,"Fri, 25 Sep 2026 07:01:06 GMT",wf,-18.72832640352729,138.41444023056897
+GDACS,Green flood alert in Nigeria,Nigeria,Magnitude 0 ,"Wed, 23 Sep 2026 11:02:15 GMT",fl,8.8796312,7.2272022
+GDACS,Green flood alert in Vietnam,Vietnam,Magnitude 0 ,"Sat, 05 Sep 2026 06:09:30 GMT",fl,17.2166964,106.9548246
+GDACS,Orange flood alert in India,India,Magnitude 0 ,"Thu, 27 Aug 2026 08:14:48 GMT",fl,11.3323723,78.6098639
+GDACS,"Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Djibouti, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Sudan, Somalia, South Sudan, Chad","Democratic Republic of Congo, Central African Republic, Cameroon, Djibouti, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Sudan, Somalia, South Sudan, Chad",Medium impact for agricultural drought in 2649772 km2,"Fri, 03 Jul 2026 12:57:44 GMT",dr,9.246,26.125
+GDACS,"Drought is on going in China, Kazakhstan, Mongolia, Russia","China, Kazakhstan, Mongolia, Russia",Minor impact for agricultural drought in 341951 km2,"Tue, 14 Jul 2026 14:07:56 GMT",dr,44.019,85.444
+GDACS,"Drought is on going in Democratic Republic of Congo, Kenya, Tanzania, Uganda","Democratic Republic of Congo, Kenya, Tanzania, Uganda",Medium impact for agricultural drought in 270713 km2,"Wed, 29 Jul 2026 12:47:44 GMT",dr,0.772,33.546
+GDACS,Green flood alert in United States,United States,Magnitude 0 ,"Thu, 21 May 2026 06:15:32 GMT",fl,26.9775102,-82.3945907
+GDACS,"Drought is on going in The Bahamas, Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador","The Bahamas, Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Haiti, Mexico, Nicaragua, El Salvador",Medium impact for agricultural drought in 884209 km2,"Fri, 03 Jul 2026 12:57:40 GMT",dr,16.86,-93.638
+GDACS,"Drought is on going in Brunei, Indonesia, Cambodia, Malaysia, Papua New Guinea, Philippines, Thailand, Vietnam","Brunei, Indonesia, Cambodia, Malaysia, Papua New Guinea, Philippines, Thailand, Vietnam",Minor impact for agricultural drought in 1265206 km2,"Thu, 30 Apr 2026 13:07:47 GMT",dr,11.725,104.832
+GDACS,Drought is on going in Venezuela,Venezuela,Minor impact for agricultural drought in 1043274 km2,"Fri, 03 Jul 2026 12:57:35 GMT",dr,7.186,-67.196
+GDACS,"Drought is on going in Mexico, United States","Mexico, United States",Minor impact for agricultural drought in 497162 km2,"Thu, 30 Apr 2026 13:07:44 GMT",dr,36.392,-105.399
+GDACS,Drought is on going in Southern India,Southern India,Minor impact for agricultural drought in 537380 km2,"Mon, 31 Aug 2026 08:22:42 GMT",dr,14.258,77.569
+GDACS,"Drought is on going in Angola, Democratic Republic of Congo, Republic of Congo, Gabon","Angola, Democratic Republic of Congo, Republic of Congo, Gabon",Minor impact for agricultural drought in 98332 km2,"Wed, 04 Feb 2026 09:58:20 GMT",dr,-3.0,15.251
+GDACS,"Drought is on going in Austria, Bosnia & Herzegovina, Belgium, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Norway, Poland, Romania, Serbia, Russia, Sweden, Slovenia, Slovakia, San Marino, Ukraine, ","Austria, Bosnia & Herzegovina, Belgium, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Norway, Poland, Romania, Serbia, Russia, Sweden, Slovenia, Slovakia, San Marino, Ukraine, ",Medium impact for agricultural drought in 1759971 km2,"Wed, 11 Feb 2026 09:57:31 GMT",dr,48.764,13.696
+GDACS,Drought is on going in Madagascar,Madagascar,Minor impact for agricultural drought in 97655 km2,"Thu, 30 Apr 2026 13:07:35 GMT",dr,-16.837,48.741
+GDACS,Drought is on going in Brazil,Brazil,Minor impact for agricultural drought in 343349 km2,"Mon, 21 Sep 2026 14:58:16 GMT",dr,-4.658,-47.632
