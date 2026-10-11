@@ -4,7 +4,7 @@ import os, pandas as pd, plotly.express as px, streamlit as st
 st.set_page_config(page_title="DisasterWatch", page_icon="🌍", layout="wide")
 st.title("🌍 DisasterWatch: Multi-Source Disaster Data Scraping & Analytics")
 if not (os.path.exists("data/master.csv") and os.path.getsize("data/master.csv") > 0):
-    st.error("Missing or empty data/master.csv. Run 'python run_all.py' first."); st.stop()
+    st.error("Missing or empty data/master.csv Run 'python run_all.py' first."); st.stop()
 
 df = pd.read_csv("data/master.csv")
 df["timestamp"] = pd.to_datetime(df["timestamp"], format="mixed", utc=True)
